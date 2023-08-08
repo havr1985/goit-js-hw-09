@@ -36,4 +36,13 @@ img {
   text-transform: uppercase;
 }
 
+.form {
+  display: flex;
+  gap: 20px;
+}
+
+input{
+  display: flex;
+}
+
 
